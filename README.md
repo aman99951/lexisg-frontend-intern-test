@@ -5,7 +5,7 @@ A modern, interactive legal assistant interface built with React and enhanced wi
 ## 📸 Screenshots
 
 ### Main Interface
-![Lexi Legal Assistant Main Interface](https://i.ibb.co/9HB8ynG/Screenshot-2025-07-08-205310.png)
+![Lexi Legal Assistant Main Interface](https://i.ibb.co/9HB8ynGh/Screenshot-2025-07-08-205310.png)
 
 ### Citation View
 ![Lexi Legal Assistant Citation](https://i.ibb.co/qTKbPzN/Screenshot-2025-07-08-205231.png)
